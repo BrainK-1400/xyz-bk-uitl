@@ -1,0 +1,16 @@
+{
+  "name": "xyz-bk-util",
+  "version": "1.0.0",
+  "description": "common toolkit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "utils",
+    "format",
+    "phone"
+  ],
+  "author": "braink-1400",
+  "license": "ISC"
+}
